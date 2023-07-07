@@ -34,7 +34,7 @@ class SendEmailJob implements ShouldQueue
     {
         //
 //        Mail::to('nomanimtiaz2019@icloud.com')->send(new \App\Mail\QuoteMail($details));
-        $email = new QuoteMail();
-        Mail::to($this->send_mail)->send($email);
+        $email = new QuoteMail($this->send_mail);
+        Mail::to('arsalkamoka786@gmail.com')->send($email);
     }
 }

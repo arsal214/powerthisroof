@@ -42,7 +42,7 @@ class QuotesController extends Controller
 //            $send_mail = 'nomanimtiaz2019@icloud.com';
             $send_mail = 'arsalkamoka786@gmail.com';
 
-            dispatch(new SendEmailJob($send_mail));
+            dispatch(new SendEmailJob($details));
 
             return response()->json('Addedd',200);
         } catch (\Exception $ex) {
