@@ -32,7 +32,7 @@
                                 <div class="col-md-3 ">
                                     <div class="box-work wow fadeInDown">
                                         <!-- <span class="icon zingbox-icon-solar-fan "></span> -->
-                                        <img src="assets/img/shortcode/work/work-2.png" alt="Image">
+                                        <img src="assets/img/shortcode/work/consulation.jpeg" width="220px" alt="Image">
                                         <div class="text-wrap">
                                             <h6 class="heading">At-Home Consultation</h6>
                                             <p class="sub-heading">We’ll sit down with you to discuss your savings potential
@@ -46,7 +46,7 @@
                                 <div class="col-md-3 ">
                                     <div class="box-work wow fadeInUp">
                                         <!-- <span class="icon zingbox-icon-powe-poles"></span> -->
-                                        <img src="assets/img/shortcode/work/work-1.png" alt="Image">
+                                        <img src="assets/img/shortcode/work/design.jpeg" width="220px"alt="Image">
                                         <div class="text-wrap">
                                             <h6 class="heading">System Design & Permitting</h6>
                                             <div class="sep clearfix"></div>
@@ -58,7 +58,7 @@
                                 <div class="col-md-3 ">
                                     <div class="box-work wow fadeInUp">
                                         <!-- <span class="icon zingbox-icon-powe-poles"></span> -->
-                                        <img src="assets/img/shortcode/work/work-3.png" alt="Image">
+                                        <img src="assets/img/shortcode/work/install.jpeg" width="220px" alt="Image">
                                         <div class="text-wrap">
                                             <h6 class="heading">System
                                                 Installation</h6>
