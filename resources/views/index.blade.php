@@ -705,7 +705,7 @@ It’s a significant investment, but you don’t have to pay everything upfront 
                             <div class="col-md-3 ">
                                 <div class="box-work wow fadeInDown">
                                     <!-- <span class="icon zingbox-icon-solar-fan "></span> -->
-                                    <img src="assets/img/shortcode/work/work-2.png" alt="Image">
+                                    <img src="assets/img/shortcode/work/consulation.jpeg" width="220px" alt="Image">
                                     <div class="text-wrap">
                                         <h6 class="heading">At-Home Consultation</h6>
                                         <p class="sub-heading">We’ll sit down with you to discuss your savings potential
@@ -719,7 +719,7 @@ It’s a significant investment, but you don’t have to pay everything upfront 
                             <div class="col-md-3 ">
                                 <div class="box-work wow fadeInUp">
                                     <!-- <span class="icon zingbox-icon-powe-poles"></span> -->
-                                    <img src="assets/img/shortcode/work/work-1.png" alt="Image">
+                                    <img src="assets/img/shortcode/work/design.jpeg" width="220px"alt="Image">
                                     <div class="text-wrap">
                                         <h6 class="heading">System Design & Permitting</h6>
                                         <div class="sep clearfix"></div>
@@ -731,7 +731,7 @@ It’s a significant investment, but you don’t have to pay everything upfront 
                             <div class="col-md-3 ">
                                 <div class="box-work wow fadeInUp">
                                     <!-- <span class="icon zingbox-icon-powe-poles"></span> -->
-                                    <img src="assets/img/shortcode/work/work-3.png" alt="Image">
+                                    <img src="assets/img/shortcode/work/install.jpeg" width="220px" alt="Image">
                                     <div class="text-wrap">
                                         <h6 class="heading">System
                                             Installation</h6>
@@ -756,93 +756,6 @@ It’s a significant investment, but you don’t have to pay everything upfront 
                 <!-- /.row -->
             </div>
         </div>
-
-        {{--            <div class="row-articles">--}}
-        {{--                <div class="container">--}}
-        {{--                    <div class="col-md-12">--}}
-        {{--                        <div--}}
-        {{--                            class="themesflat-spacer clearfix"--}}
-        {{--                            data-desktop="175"--}}
-        {{--                            data-mobile="120"--}}
-        {{--                            data-smobile="120"--}}
-        {{--                        ></div>--}}
-        {{--                    </div>--}}
-        {{--                    <div class="themesflat-headings style-2 wow fadeInUp article">--}}
-        {{--                        <h1 class="heading ">OUR INSIGHTS & ARTICLES</h1>--}}
-        {{--                    </div>--}}
-        {{--                    <div class="owl-carousel owl-theme" data-item="3" data-item2="2">--}}
-        {{--                        <div class="item acticle wow fadeInUp">--}}
-        {{--                            <div class="img">--}}
-        {{--                                <div class="img-overlay"></div>--}}
-        {{--                                <img src="assets/img/shortcode/article/article-1.jpg" alt="Image">--}}
-        {{--                            </div>--}}
-        {{--                            <ul>--}}
-        {{--                                <li>--}}
-        {{--                                    <a class="date-articles" href="blog-detail.html">28 JANUARY, 2020</a>--}}
-        {{--                                </li>--}}
-        {{--                            </ul>--}}
-        {{--                            <div class="box-acticle">--}}
-        {{--                                <a href="blog-detail.html" class="link-articles">MAURIS NEQUE NISIIBUS NON--}}
-        {{--                                    <br> ELEMENTUM--}}
-        {{--                                </a>--}}
-        {{--                                <p class="content">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam--}}
-        {{--                                    nonumy eirmod tempor invidunt</p>--}}
-        {{--                                <i class="line"></i>--}}
-        {{--                                <a href="blog-detail.html" class="btn-read-more">READ MORE</a>--}}
-        {{--                            </div>--}}
-        {{--                        </div>--}}
-        {{--                        <div class="item acticle wow fadeInDown">--}}
-        {{--                            <div class="img">--}}
-        {{--                                <div class="img-overlay"></div>--}}
-        {{--                                <img src="assets/img/shortcode/article/article-2.jpg" alt="Image">--}}
-        {{--                            </div>--}}
-        {{--                            <ul>--}}
-        {{--                                <li>--}}
-        {{--                                    <a class="date-articles" href="blog-detail.html">28 JANUARY, 2020</a>--}}
-        {{--                                </li>--}}
-        {{--                            </ul>--}}
-        {{--                            <div class="box-acticle">--}}
-        {{--                                <a href="blog-detail.html" class="link-articles">MAURIS NEQUE NISIIBUS NON--}}
-        {{--                                    <br> ELEMENTUM--}}
-        {{--                                </a>--}}
-        {{--                                <p class="content">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam--}}
-        {{--                                    nonumy eirmod tempor invidunt</p>--}}
-        {{--                                <i class="line"></i>--}}
-        {{--                                <a href="blog-detail.html" class="btn-read-more">READ MORE</a>--}}
-        {{--                            </div>--}}
-        {{--                        </div>--}}
-        {{--                        <div class="item acticle wow fadeInUp">--}}
-        {{--                            <div class="img">--}}
-        {{--                                <div class="img-overlay"></div>--}}
-        {{--                                <img src="assets/img/shortcode/article/article-3.jpg" alt="Image">--}}
-        {{--                            </div>--}}
-        {{--                            <ul>--}}
-        {{--                                <li>--}}
-        {{--                                    <a class="date-articles" href="blog-detail.html">28 JANUARY, 2020</a>--}}
-        {{--                                </li>--}}
-        {{--                            </ul>--}}
-        {{--                            <div class="box-acticle">--}}
-        {{--                                <a href="blog-detail.html" class="link-articles">MAURIS NEQUE NISIIBUS NON--}}
-        {{--                                    <br> ELEMENTUM--}}
-        {{--                                </a>--}}
-        {{--                                <p class="content">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam--}}
-        {{--                                    nonumy eirmod tempor invidunt</p>--}}
-        {{--                                <i class="line"></i>--}}
-        {{--                                <a href="blog-detail.html" class="btn-read-more">READ MORE</a>--}}
-        {{--                            </div>--}}
-        {{--                        </div>--}}
-        {{--                    </div>--}}
-        {{--                    <div class="col-md-12">--}}
-        {{--                        <div--}}
-        {{--                            class="themesflat-spacer clearfix"--}}
-        {{--                            data-desktop="120"--}}
-        {{--                            data-mobile="60"--}}
-        {{--                            data-smobile="60"--}}
-        {{--                        ></div>--}}
-        {{--                    </div>--}}
-        {{--                </div>--}}
-        {{--            </div>--}}
-        <!--END ARTICLE-->
     </div>
     <!-- /#main-content -->
     <!-- Footer -->

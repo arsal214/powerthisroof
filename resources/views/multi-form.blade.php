@@ -27,7 +27,7 @@
         <div class="top-bar-inner-wrap">
             <div class="top-bar-content">
                 <div class="inner">
-                    <span class="location content">2072 Pinnickinick Street, WA 98370</span>
+                    <span class="location content">100 Somerset Corporate Blvd Bridgewater, NJ 08807</span>
                     <span class="envelope content">info@website.com</span>
                 </div>
             </div>

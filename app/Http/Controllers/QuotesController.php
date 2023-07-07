@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Jobs\SendEmailJob;
 use App\Models\Quote;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
@@ -38,7 +39,11 @@ class QuotesController extends Controller
             'email' => $quotes->email,
             'number' => $quotes->number
         ];
-        Mail::to('nomanimtiaz2019@icloud.com')->send(new \App\Mail\QuoteMail($details));
+//            $send_mail = 'nomanimtiaz2019@icloud.com';
+            $send_mail = 'arsalkamoka786@gmail.com';
+
+            dispatch(new SendEmailJob($send_mail));
+
             return response()->json('Addedd',200);
         } catch (\Exception $ex) {
             return ($ex->getMessage());

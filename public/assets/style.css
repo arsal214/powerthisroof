@@ -902,15 +902,15 @@ body.page #main-content {
   position: relative;
   letter-spacing: 0.3px !important;
   display: inline-block;
-  padding: 0px 13px 0px 17px;
-  margin: 0px 0px 0px 300px;
+  padding: 0px 6px 0px 14px;
+  margin: 0px 0px 0px 255px;
   color: #fff;
 }
 
 #top-bar .top-bar-content .content:last-child {
   position: relative;
   display: inline-block;
-  padding: 0px 0px 0px 27px;
+  padding: 0px 0px 0px 22px;
   color: #fff;
 }
 
@@ -1024,9 +1024,9 @@ body.page #main-content {
 /* Site Logo */
 
 #site-logo {
-  width: 22.5%;
+  width: 20.5%;
   margin: -102px 0px 0px 0px;
-  padding: 50px 0px 50px 0px;
+  padding: 50px 0px 36px 0px;
   background-color: #fff;
   position: absolute;
   z-index: 3;

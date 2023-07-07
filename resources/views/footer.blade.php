@@ -12,7 +12,7 @@
                                 <div>
                                     <span>Our Address</span>
                                 </div>
-                                <a href="#" title="">Drive Chicago, IL 60607</a>
+                                <a href="#" title="">100 Somerset Corporate Blvd Bridgewater, NJ 08807</a>
                             </div>
                         </div>
                     </div>
@@ -25,7 +25,7 @@
                                 <div>
                                     <span>Call Us</span>
                                 </div>
-                                <a href="tel:360-779-2228" title="">360-779-2228</a>
+                                <a href="tel:908-930-8347" title="">908-930-8347</a>
                             </div>
                         </div>
                     </div>
@@ -52,9 +52,9 @@
                     <div class="widget widget_text">
                         <div class="textwidget">
                             <img src="assets/img/logo.png" alt="Image">
-                            <p class="margin-bottom-15">Lorem ipsum dolor sit amet,
-                                <br> consect etuer adipiscing elit, sed
-                                <br> diam nonu mmy nibh euis
+                            <p class="margin-bottom-15">Harnessing the power of the sun,
+                                <br>  solar energy offers a clean and
+                                <br> sustainable solution for our energy needs
                             </p>
                             <div class="footer-socials">
                                 <div class="inner">
@@ -96,26 +96,26 @@
                         data-mobile="0"
                         data-smobile="50"
                     ></div>
-                    <div class="widget widget_services">
-                        <h3 class="widget-title margin-bottom-30">Services</h3>
-                        <ul class="service-list">
-                            <li>
-                                <a href="service-detail.html">Conditions</a>
-                            </li>
-                            <li>
-                                <a href="service-detail.html">Terms of Use</a>
-                            </li>
-                            <li>
-                                <a href="service.html">Our Services</a>
-                            </li>
-                            <li>
-                                <a href="blog.html">New Guests List</a>
-                            </li>
-                            <li>
-                                <a href="team.html">The Team List</a>
-                            </li>
-                        </ul>
-                    </div>
+{{--                    <div class="widget widget_services">--}}
+{{--                        <h3 class="widget-title margin-bottom-30">Services</h3>--}}
+{{--                        <ul class="service-list">--}}
+{{--                            <li>--}}
+{{--                                <a href="service-detail.html">Conditions</a>--}}
+{{--                            </li>--}}
+{{--                            <li>--}}
+{{--                                <a href="service-detail.html">Terms of Use</a>--}}
+{{--                            </li>--}}
+{{--                            <li>--}}
+{{--                                <a href="service.html">Our Services</a>--}}
+{{--                            </li>--}}
+{{--                            <li>--}}
+{{--                                <a href="blog.html">New Guests List</a>--}}
+{{--                            </li>--}}
+{{--                            <li>--}}
+{{--                                <a href="team.html">The Team List</a>--}}
+{{--                            </li>--}}
+{{--                        </ul>--}}
+{{--                    </div>--}}
                 </div>
                 <!-- /.col -->
                 <div class="col-lg-3 col-md-6 col-6">
@@ -125,28 +125,28 @@
                         data-mobile="50"
                         data-smobile="50"
                     ></div>
-                    <div class="widget widget_useful-link">
-                        <h3 class="widget-title margin-bottom-30">
-                            <span>Useful Links</span>
-                        </h3>
-                        <ul class="service-list">
-                            <li>
-                                <a href="service-detail.html">Conditions</a>
-                            </li>
-                            <li>
-                                <a href="service-detail.html">Terms of Use</a>
-                            </li>
-                            <li>
-                                <a href="service.html">Our Services</a>
-                            </li>
-                            <li>
-                                <a href="blog.html">New Guests List</a>
-                            </li>
-                            <li>
-                                <a href="team.html">The Team List</a>
-                            </li>
-                        </ul>
-                    </div>
+{{--                    <div class="widget widget_useful-link">--}}
+{{--                        <h3 class="widget-title margin-bottom-30">--}}
+{{--                            <span>Useful Links</span>--}}
+{{--                        </h3>--}}
+{{--                        <ul class="service-list">--}}
+{{--                            <li>--}}
+{{--                                <a href="service-detail.html">Conditions</a>--}}
+{{--                            </li>--}}
+{{--                            <li>--}}
+{{--                                <a href="service-detail.html">Terms of Use</a>--}}
+{{--                            </li>--}}
+{{--                            <li>--}}
+{{--                                <a href="service.html">Our Services</a>--}}
+{{--                            </li>--}}
+{{--                            <li>--}}
+{{--                                <a href="blog.html">New Guests List</a>--}}
+{{--                            </li>--}}
+{{--                            <li>--}}
+{{--                                <a href="team.html">The Team List</a>--}}
+{{--                            </li>--}}
+{{--                        </ul>--}}
+{{--                    </div>--}}
                 </div>
                 <!-- /.col -->
                 <div class="col-lg-3 col-md-6">

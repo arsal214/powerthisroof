@@ -5,7 +5,7 @@
             <div class="top-bar-inner-wrap">
                 <div class="top-bar-content">
                     <div class="inner">
-                        <span class="location content">2072 Pinnickinick Street, WA 98370</span>
+                        <span class="location content">100 Somerset Corporate Blvd Bridgewater, NJ 08807</span>
                         <span class="envelope content">info@powerthisroof.com</span>
                     </div>
                 </div>
@@ -39,9 +39,9 @@
             <div class="wrap-inner clearfix">
                 <div id="site-logo" class="clearfix">
                     <div id="site-logo-inner">
-                        {{--<a href="index.html" rel="home" class="main-logo"> --}}
-                        {{--<img src="assets/img/logo.png" alt="Zingbox" data-retina="assets/img/logo.png"> --}}
-                        {{--</a> --}}
+                        <a href="{{url('/')}}" rel="home" class="main-logo">
+                        <img src="assets/img/logo.png" alt="powerthisroof" data-retina="assets/img/logo.png">
+                        </a>
                     </div>
                 </div>
                 <!-- /#site-logo -->
@@ -70,7 +70,7 @@
                 </nav>
                 <!-- /#main-nav -->
                 <div id="header-get-a-quote">
-                    <a href="contact.html" class="header-get-a-quote-icon">Get A Quote</a>
+                    <a href="{{url('/')}}" class="header-get-a-quote-icon">Get A Quote</a>
                     <!-- <button class="header-get-a-quote-icon" >Get a Quote</button> -->
                 </div>
                 <!-- /#header-get-a-quote -->
